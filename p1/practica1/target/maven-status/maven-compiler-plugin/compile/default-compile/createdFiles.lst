@@ -1,0 +1,5 @@
+servlets/SvAddUser.class
+test/practica1/JakartaRestConfiguration.class
+test/practica1/resources/JakartaEE91Resource.class
+servlets/testJavaDB.class
+servlets/SvImages.class
